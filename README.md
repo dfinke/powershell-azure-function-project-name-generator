@@ -1,1 +1,1 @@
-# powershell-azure-function-project-name-generator
+# Powershell Azure Function Project Name Generator
